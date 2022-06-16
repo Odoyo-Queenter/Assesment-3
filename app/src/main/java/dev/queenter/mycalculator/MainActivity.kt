@@ -98,23 +98,3 @@ class MainActivity : AppCompatActivity() {
 
 
 
-//
-//
-//
-//    fun add(num1:Double,num2: Double){
-//        var total=num1+num2
-//        tvResult.text=total.toString()
-//    }
-//    fun subtract(num1:Double,num2: Double){
-//        var total=num1+num2
-//        tvResult.text=total.toString()
-//    }
-//    fun multiply(num1:Double,num2: Double){
-//        var total=num1*num2
-//        tvResult.text=total.toString()
-//    }
-//    fun modulus(num1:Double,num2: Double){
-//        var total=num1%num2
-//        tvResult.text=total.toString()
-//    }
-//}
